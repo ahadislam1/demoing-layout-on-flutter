@@ -43,6 +43,7 @@ class My3rdApp extends StatelessWidget {
 
   Widget buildRow() =>
   Row(
+    textDirection: TextDirection.ltr,
     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
     children: <Widget>[
       Icon(
