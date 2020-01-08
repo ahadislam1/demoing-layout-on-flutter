@@ -1,6 +1,6 @@
 # layout_tutorial
 
-A new Flutter project.
+Trying out layout on flutter till I figure it out.
 
 ## Getting Started
 
